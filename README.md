@@ -16,7 +16,7 @@ Many Go projects are built using Viper including:
 * [doctl](https://github.com/digitalocean/doctl)
 * [Clairctl](https://github.com/jgsqware/clairctl)
 
-[![Build Status](https://travis-ci.org/pedromss/viper.svg?branch=master)](https://travis-ci.org/spf13/viper) [![GoDoc](https://godoc.org/github.com/spf13/viper?status.svg)](https://godoc.org/github.com/spf13/viper)
+[![Build Status](https://travis-ci.org/pedromss/viper.svg?branch=master)](https://travis-ci.org/pedromss/viper)[![GoDoc](https://godoc.org/github.com/spf13/viper?status.svg)](https://godoc.org/github.com/spf13/viper)
 
 ## Install
 ```console
