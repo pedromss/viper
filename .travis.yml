@@ -1,4 +1,4 @@
-go_import_path: github.com/spf13/viper
+go_import_path: github.com/pedromss/viper
 
 language: go
 
@@ -25,7 +25,6 @@ script:
   - go test -v ./...
 
 after_success:
-  - go get -u -d github.com/spf13/hugo
-  - cd $GOPATH/src/github.com/spf13/hugo && make && ./hugo -s docs && cd -
+  - go get -u -d github.com/pedromss/hugo
 
 sudo: false

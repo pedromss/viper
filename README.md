@@ -1,5 +1,8 @@
 ![viper logo](https://cloud.githubusercontent.com/assets/173412/10886745/998df88a-8151-11e5-9448-4736db51020d.png)
 
+## This is a fork from the [original repo](https://github.com/spf13/viper). This is for fixes I don't want to wait the original repo to have
+
+
 Go configuration with fangs!
 
 Many Go projects are built using Viper including:
@@ -13,11 +16,11 @@ Many Go projects are built using Viper including:
 * [doctl](https://github.com/digitalocean/doctl)
 * [Clairctl](https://github.com/jgsqware/clairctl)
 
-[![Build Status](https://travis-ci.org/spf13/viper.svg)](https://travis-ci.org/spf13/viper) [![Join the chat at https://gitter.im/spf13/viper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spf13/viper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GoDoc](https://godoc.org/github.com/spf13/viper?status.svg)](https://godoc.org/github.com/spf13/viper)
+[![Build Status](https://travis-ci.org/spf13/viper.svg)](https://travis-ci.org/spf13/viper) [![GoDoc](https://godoc.org/github.com/spf13/viper?status.svg)](https://godoc.org/github.com/spf13/viper)
 
 ## Install
 ```console
-go get -u github.com/spf13/viper
+go get -u github.com/pedromss/viper
 ```
 
 ## What is Viper?
